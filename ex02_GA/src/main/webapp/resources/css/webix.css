@@ -1,0 +1,6 @@
+.my_panel .webix_panel_head {
+    cursor: move;
+}
+.my_panel .webix_drag_handle {
+    cursor: se-resize;
+}
